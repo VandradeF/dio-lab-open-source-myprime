@@ -1,1 +1,3 @@
 ## Vinicius Andrade
+### Modifiquei totalmente as cores do site, transformando em "fundo de oceano".
+### Gosto muito dessa idéia de sair da curva de forma simples...
